@@ -1,10 +1,9 @@
 import React from 'react';
-//import logo from './logo.svg';
-//import './App.css';
+import './styles/styles.css';
 const app = () => <div className ="app"></div>;
 export default app;
 
-//
+//https://blog.usejournal.com/everything-react-first-app-188b33a880ca
 
 // function App() {
 //   return (
