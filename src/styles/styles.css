@@ -83,6 +83,12 @@
     background-color: var(--color-white);
     color: var(--color-tomato);
 }
+.btn--primary {
+    color:var(--color-tomato);
+}
+.btn--operator {
+    color: var(--color-orange);
+}
 
 *,
 *::after,
